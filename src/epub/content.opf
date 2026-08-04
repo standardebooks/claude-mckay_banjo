@@ -50,7 +50,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A band of beachcombers join together to live as vagrants in Marseilles.</dc:abstract>
+		<meta property="schema:abstract">A band of beachcombers join together to live as vagrants in Marseilles.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Banjo&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/claude-mckay"&gt;Claude McKay’s&lt;/a&gt; second novel, follows a band of beachcombers made up of members of the African diaspora as they live as vagrants in Marseilles. Their de facto leader is the titular Banjo, an easygoing African-American musician and veteran of World War I, who aspires to assemble the band of beach boys into an orchestra. The novel also follows Ray, an itinerant Haitian writer and intellectual who debuted in McKay’s first novel, &lt;a href="https://standardebooks.org/ebooks/claude-mckay/home-to-harlem"&gt;&lt;i&gt;Home to Harlem&lt;/i&gt;&lt;/a&gt;. Structured as a series of vignettes, &lt;i&gt;Banjo&lt;/i&gt; explores themes of Pan-Africanism and transnational racial identity in its depiction of the international black precariat.&lt;/p&gt;
 		</dc:description>
